@@ -1,0 +1,53 @@
+*{
+    
+    padding: 0%;
+}
+
+
+li{
+    float: left;
+    display: inline;
+    margin-left: 50px;
+    margin-top: 20px;
+    color: white;
+}
+nav li:hover{
+    background-color:rgb(73, 69, 73) ;
+    width: 40px;
+    height: 20px;
+    
+}
+
+.box{
+    border: 2px solid black;
+    height: 50px;
+    width: 1250px;
+    background-color: rgb(83, 86, 86);
+    
+}
+.box1{
+    border: 2px solid blue;
+    width: 1250px;
+    height: 300px;
+}
+.box2{
+    border: 2px solid black;
+    width: 1250px;
+    height: 200px;
+}
+.t1{
+   border: 2px solid red;
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px;
+    border-radius: 50px;
+    
+   
+}
+img{
+    width: 100px;
+    height: 100px;
+    
+}
